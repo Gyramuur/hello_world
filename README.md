@@ -1,2 +1,3 @@
 # hello_world
-Testing stuff.
+
+Hello, everyone. It's a nice day today.
